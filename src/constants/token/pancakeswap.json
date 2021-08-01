@@ -1,0 +1,94 @@
+{
+  "name": "Corgiswap Default List",
+  "timestamp": "2021-08-01",
+  "version": {
+    "major": 2,
+    "minor": 10,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://corgiswap.org/logo.png",
+  "keywords": ["corgiswap", "coris", "corgi", "default"],
+  "tokens": [
+    {
+      "name": "Corgidoge",
+      "symbol": "CORGI",
+      "address": "0x802c68730212295149f2bea78c25e2cf5a05b8a0",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/0x802c68730212295149f2bea78c25e2cf5a05b8a0.png"
+    },
+    {
+      "name": "CorgiSwap",
+      "symbol": "CORIS",
+      "address": "0x2a2cD8b1F69EB9dda5d703b3498d97080C2F194F",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/0x2a2cD8b1F69EB9dda5d703b3498d97080C2F194F.png"
+    },
+    {
+      "name": "Rose Finance",
+      "symbol": "ROF",
+      "address": "0xcd95b05ebe61244de4df9c2c4123920f016a06df",
+      "chainId": 56,
+      "decimals": 10,
+      "logoURI": "/images/coins/0xcd95b05ebe61244de4df9c2c4123920f016a06df.png"
+    },
+    {
+      "name": "Hell Moon",
+      "symbol": "HMOON",
+      "address": "0x46328f831cff23f44d65fa5e53a7217a660554aa",
+      "chainId": 56,
+      "decimals": 10,
+      "logoURI": "/images/coins/0x46328f831cff23f44d65fa5e53a7217a660554aa.png"
+    },
+    {
+      "name": "GoldenWspp",
+      "symbol": "GWSPP",
+      "address": "0xcccbf2248ef3bd8d475ea5de8cb06e19f4591a8e",
+      "chainId": 56,
+      "decimals": 10,
+      "logoURI": "/images/coins/0xcccbf2248ef3bd8d475ea5de8cb06e19f4591a8e.png"
+    },
+    {
+      "name": "WolfSafePoorPeople",
+      "symbol": "WSPP",
+      "address": "0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f",
+      "chainId": 56,
+      "decimals": 10,
+      "logoURI": "/images/coins/0x46d502fac9aea7c5bc7b13c8ec9d02378c33d36f.png"
+    },
+    {
+      "name": "BUBBLEGUM",
+      "symbol": "BUBBLEGUM",
+      "address": "0x58bfc98f3974aef4fed9a0168b97cccd3512cb4a",
+      "chainId": 56,
+      "decimals": 10,
+      "logoURI": "/images/coins/0x58bfc98f3974aef4fed9a0168b97cccd3512cb4a.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://exchange.pancakeswap.finance/images/coins/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    }
+  ]
+}
