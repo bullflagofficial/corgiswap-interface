@@ -6,7 +6,7 @@ You can refer to the Pancakeswap Exchange documentation [pancakeswap.finance](ht
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c6ef7e73-4a84-410d-83b0-b89326787dff/deploy-status)](https://app.netlify.com/sites/swap-master/deploys)
 
-[Corgiswap](https://app.corgiswap.org) is an automated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC). It is fast, cheap, and allows anyone to participate.
+[Corgiswap](https://app.corgiswap.org) is an acutomated market maker (“**AMM**”) that allows two tokens to be exchanged on the [Binance Smart Chain](https://www.binance.org/en/smartChain) (BSC). It is fast, cheap, and allows anyone to participate.
 
 This repo is responsible for the **exchange** interface of the AMM: [app.corgiswap.org](https://app.corgiswap.org)
 
