@@ -1,4 +1,4 @@
-# 🥞 Corgiswap Exchange
+# 🥞 Corgiswasp Exchange
 
 Forked from the [Pancakeswap Exchange](https://github.com/pancakeswap/pancake-swap-interface-v1/commit/947fd27ac708ae78087b0e8aee3b4cdc08e31abf).
 
